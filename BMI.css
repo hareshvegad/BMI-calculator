@@ -1,0 +1,29 @@
+body{
+    background-color: grey;
+    color: white;
+}
+
+.container{
+    padding: 50px;
+}
+
+h1, form{
+    text-align: center;
+}
+
+button{
+    padding: 5px;
+    margin: 25px;
+    border: solid black 3px;
+    border-radius: 50px;
+}
+
+#results{
+    margin: 20px;
+    color: black;
+    font-size: xx-large;
+}
+
+#weight-guide{
+    margin: 100px;
+}
